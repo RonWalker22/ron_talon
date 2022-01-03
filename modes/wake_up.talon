@@ -13,6 +13,5 @@ mode: all
     user.mouse_sleep()
     speech.disable()
     user.engine_sleep()
-^talon sleep [<phrase>]$: speech.disable()
-^talon start$: speech.enable()
-
+^red light [<phrase>]$: speech.disable()
+^green light$: speech.enable()
