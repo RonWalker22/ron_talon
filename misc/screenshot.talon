@@ -9,3 +9,4 @@
 
 # for screener app(http://cocoashot.com)
 ^grab previous$: key('ctrl-alt-1')
+^grab area$: key('alt-1')
