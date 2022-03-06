@@ -6,3 +6,6 @@
 ^grab screen clip$:                  user.screenshot_clipboard()
 ^grab screen <number_small> clip$:   user.screenshot_clipboard(number_small)
 ^grab window clip$:                  user.screenshot_window_clipboard()
+
+# for screener app(http://cocoashot.com)
+^grab previous$: key('ctrl-alt-1')
