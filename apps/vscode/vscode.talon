@@ -11,8 +11,18 @@ window reload: user.vscode("workbench.action.reloadWindow")
 window close: user.vscode("workbench.action.closeWindow")
 #multiple_cursor.py support end
 
-#user-added
+#user-added-start
 hat toggle: user.vscode("cursorless.toggleDecorations")
+slap star:
+    key(shift-enter)
+    insert("  * ")
+slap dash:
+    key(shift-enter)
+    insert("  - ")
+slap plus:
+    key(shift-enter)
+    insert("  + ")
+#user-added-end
 
 please [<user.text>]:
     user.vscode("workbench.action.showCommands")
