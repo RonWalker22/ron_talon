@@ -12,11 +12,11 @@ window close: user.vscode("workbench.action.closeWindow")
 #multiple_cursor.py support end
 
 #user-added-start
-hat toggle: user.vscode("cursorless.toggleDecorations")
+no fly zone: user.vscode("cursorless.toggleDecorations")
 slap star:
     key(shift-enter)
     insert("  * ")
-slap dash:
+slap dash:  
     key(shift-enter)
     insert("  - ")
 slap plus:

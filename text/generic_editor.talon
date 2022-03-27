@@ -28,6 +28,23 @@ go line start:
 go line end:
     edit.line_end()
 
+withdraw:
+    edit.line_start()
+    insert(" ")
+    edit.left()
+
+advance:
+    edit.line_end()
+    insert(";")
+
+advance brace:
+    edit.line_end()
+    insert(" { \n")
+
+advance void:
+    edit.line_end()
+    insert(" ")
+
 go way left:
     edit.line_start()
     edit.line_start()
