@@ -13,5 +13,5 @@ mode: all
     user.mouse_sleep()
     speech.disable()
     user.engine_sleep()
-^radio silence [<phrase>]$: speech.disable()
+^red light [<phrase>]$: speech.disable()
 ^green light$: speech.enable()
