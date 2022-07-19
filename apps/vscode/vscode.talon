@@ -12,6 +12,8 @@ window close: user.vscode("workbench.action.closeWindow")
 #multiple_cursor.py support end
 
 #user-added-start
+run program: user.vscode("code-runner.run")
+format document: user.vscode("editor.action.formatDocument")
 no fly zone: user.vscode("cursorless.toggleDecorations")
 slap star:
     key(shift-enter)

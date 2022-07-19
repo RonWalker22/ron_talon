@@ -155,6 +155,17 @@ class MacUserActions:
 
 @ctx.action_class("user")
 class UserActions:
+
+
+    #user-added-start
+    def format_document():
+        actions.user.vscode("editor.action.formatDocument")
+    
+    def run_program():
+        actions.user.vscode("editor.action.runProgram")
+
+    #user-added-end
+
     # splits.py support begin
     def split_clear_all():
         actions.user.vscode("workbench.action.editorLayoutSingle")
