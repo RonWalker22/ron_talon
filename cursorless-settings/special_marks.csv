@@ -5,3 +5,7 @@ source, previousSource
 that, previousTarget
 this, currentSelection
 up, lineNumberRelativeUp
+
+
+# 2022-04-28 08:51:14 - New entries automatically added by cursorless
+nothing, nothing

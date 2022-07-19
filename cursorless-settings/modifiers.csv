@@ -5,3 +5,8 @@ inside, interiorOnly
 just, toRawSelection
 slice, verticalRange
 tail, extendThroughEndOf
+
+
+# 2022-07-11 06:33:06 - New entries automatically added by cursorless
+leading, leading
+trailing, trailing
