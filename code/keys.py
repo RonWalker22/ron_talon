@@ -137,7 +137,7 @@ punctuation_words = {
     "semi": ";",
     "cola": ":",
     "forward slash": "/",
-    "question mark": "?",
+    "question": "?",
     "exclamation mark": "!",
     "exclamation point": "!",
     "asterisk": "*",
