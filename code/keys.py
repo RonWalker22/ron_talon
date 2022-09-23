@@ -160,7 +160,7 @@ symbol_key_words = {
     "dash": "-",
     "equals": "=",
     "plus": "+",
-    "tilde": "~",
+    "wave": "~",
     "bang": "!",
     "score": "_",
     "lace": "(",
