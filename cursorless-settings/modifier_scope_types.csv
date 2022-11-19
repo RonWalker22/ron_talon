@@ -48,3 +48,14 @@ selector, selector
 # 2022-07-16 15:36:15 - New entries automatically added by cursorless
 callee, functionCallee
 short paint, boundedNonWhitespaceSequence
+
+# 2022-11-18 18:44:44 - New entries automatically added by cursorless
+chapter, chapter
+environment, environment
+identifier, identifier
+paragraph, namedParagraph
+part, part
+subparagraph, subParagraph
+subsection, subSection
+subsubsection, subSubSection
+unit, unit

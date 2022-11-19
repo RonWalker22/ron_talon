@@ -10,3 +10,15 @@ tail, extendThroughEndOf
 # 2022-07-11 06:33:06 - New entries automatically added by cursorless
 leading, leading
 trailing, trailing
+
+# 2022-11-18 18:44:43 - New entries automatically added by cursorless
+backward, backward
+content, keepContentFilter
+empty, keepEmptyFilter
+every, every
+first, first
+forward, forward
+its, inferPreviousMark
+last, last
+next, next
+previous, previous
