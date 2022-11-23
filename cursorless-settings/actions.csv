@@ -6,7 +6,7 @@ call, callAsFunction
 carve, cutToClipboard
 center, scrollToCenter
 change, clearAndSetSelection
-chuck, remove
+kill, remove
 clone, insertCopyAfter
 clone up, insertCopyBefore
 comment, toggleLineComment

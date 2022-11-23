@@ -206,7 +206,7 @@ simple_keys = [
 ]
 
 alternate_keys = {
-    "chuck": "backspace",
+    "kill": "backspace",
     "void": "space",
     "clap": "enter",
     "drill": "delete",
